@@ -1,1 +1,2 @@
-# matrices-over-finite-fields
+# Matrices over Finite Fields
+I did this project in the 2nd year of my bachelor degree at University of Cambridge as part of abstract algebra coursework. Here we compute rank and construct base of vector spaces over finite fields of prime order. The file "statement.pdf" and "report.pdf" contain the problem statement and report of the project respectively. The MATLAB codes can be found in the "code" folder.
